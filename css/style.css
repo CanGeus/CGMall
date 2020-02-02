@@ -1,0 +1,122 @@
+hr{
+    margin-top: 5px;
+    border-bottom: rgba(104, 102, 102, 0.315) solid;
+}
+
+/* navbar */
+nav{
+    background-color: blanchedalmond;
+}
+
+/* nav */
+.category{
+    padding-top: 65px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+section .row a{
+    color: black;
+}
+
+section .logo{
+    background-color: rgba(255, 235, 205, 0.795);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+
+section .webdesign{
+    background-color: rgba(255, 235, 205, 0.795);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+
+section .appdesign{
+    background-color: rgba(255, 235, 205, 0.795);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+
+section .sourcecode{
+    background-color: rgba(255, 235, 205, 0.795);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+
+section .pamflet{
+    background-color: rgba(255, 235, 205, 0.795);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+
+section .brocure{
+    background-color: rgba(255, 235, 205, 0.795);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+
+
+/* advertise */
+.advertise{
+    padding: 10px 0 10px 0;
+}
+
+.advertise img{
+    width: 100%;
+}
+
+/* item */
+.item{
+    margin-bottom: 50px;
+}
+
+.item .row{
+    margin-top: 60px;
+}
+
+.item .card{
+    margin-top: 10px;
+}
+
+.item h4{
+    font-family: 'Fjalla One', sans-serif;
+}
+
+
+/* copyright */
+.copyright{
+    padding: 0 0 25px 0;
+    background-color: black;
+    color: white;
+}
+
+.copyright .row{
+    padding-top: 25px;
+}
+
+.copyright h4{
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+.copyright p{
+    color: white;
+    margin-bottom: 10px;
+}
+
+.copyright .cangeus{
+    font-size: 11px;
+    margin-top: 20px;
+}
+
+.copyright .material-icons img{
+    padding: 0 3px 0 3px;
+}
+
+/* payment */
+.payment{
+    padding: 15px 0 15px 0;
+}
+.payment img{
+    padding: 25px 15px 25px 15px;
+}
